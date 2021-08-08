@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-this is new file-1
-=======
-this is file number 1
->>>>>>> 5a42529 (added two files)
